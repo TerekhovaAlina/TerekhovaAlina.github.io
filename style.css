@@ -1,0 +1,32 @@
+body {
+    background-color: #D9D3D9;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+nav {
+    background-color: #ececec;
+
+}
+main {
+    background-color: #ffffff;
+
+}
+h1 {
+    text-align: center;
+}
+
+#logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+img{
+    width: 220px;
+}
+footer {
+    text-align: center;
+    vertical-align: bottom;
+}
